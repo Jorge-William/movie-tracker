@@ -1,0 +1,26 @@
+{
+  "name": "movie-tracker",
+  "version": "1.0.0",
+  "description": "Movie tracker to save the watcheds movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorge-William/movie-tracker.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "react",
+    "movies",
+    "tracker"
+  ],
+  "author": "Jorge William",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jorge-William/movie-tracker/issues"
+  },
+  "homepage": "https://github.com/Jorge-William/movie-tracker#readme"
+}
